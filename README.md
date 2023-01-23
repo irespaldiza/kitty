@@ -1,2 +1,4 @@
-# kitty
-Kitty configuration
+# kitty Configuration
+
+TODO
+
